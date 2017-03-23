@@ -3,3 +3,4 @@
 loop back)
 3. Run the programs from different client server directories preferably.
 4. Compile as  gcc -Wall 201505601_assign_1_client.c -lm -lcrypto and  gcc -Wall 201505601_assign_1_server.c -lcrypto
+5. Save changes before execution
